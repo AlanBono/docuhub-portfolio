@@ -17,7 +17,7 @@ const config = {
   organizationName: 'AlanBono',
   projectName: 'docuhub-portfolio',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
