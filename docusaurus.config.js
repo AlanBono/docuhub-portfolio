@@ -11,11 +11,11 @@ const config = {
   tagline: 'Modern Documentation Platform for Developers',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-2.netlify.app',
-  baseUrl: '/',
+  url: 'https://AlanBono.github.io',
+  baseUrl: '/docuhub-portfolio/',
 
-  organizationName: 'alanbono',
-  projectName: 'docuhub',
+  organizationName: 'AlanBono',
+  projectName: 'docuhub-portfolio',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
